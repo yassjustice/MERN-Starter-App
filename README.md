@@ -31,7 +31,6 @@ This script automates the creation of a **MERN (MongoDB, Express, React, Node.js
 ```
 project-folder/
 │── server/        # Backend (Express, MongoDB, JWT authentication)
-    |── server/setup.js       # This setup script
 │── client/        # Frontend (React, Vite, API integration)
 ```
 

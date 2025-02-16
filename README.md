@@ -19,7 +19,7 @@ This script automates the creation of a **MERN (MongoDB, Express, React, Node.js
    - Open a terminal and navigate to your desired project directory.
    - Execute the script:
      ```sh
-     createAllFiles.mjs
+     node createAllFiles.mjs
      ```
 
 3. **Follow the prompts**
